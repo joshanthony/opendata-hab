@@ -1,1 +1,3 @@
-Visit the main page at [hab.opendata.net.au](http://hab.opendata.net.au).
+Project now archived
+
+Contains data collected from the open high altitude balloon project
